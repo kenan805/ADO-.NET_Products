@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\bin\Debug\ADO.NET CustomerProductsOrders.exe.config
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\bin\Debug\ADO.NET CustomerProductsOrders.exe
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\bin\Debug\ADO.NET CustomerProductsOrders.pdb
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET CustomerProductsOrders.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET_CustomerProductsOrders.Form1.resources
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET_CustomerProductsOrders.Properties.Resources.resources
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET CustomerProductsOrders.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET CustomerProductsOrders.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET CustomerProductsOrders.exe
+C:\Users\user\source\repos\ADO.NET CustomerProductsOrders\ADO.NET CustomerProductsOrders\obj\Debug\ADO.NET CustomerProductsOrders.pdb
